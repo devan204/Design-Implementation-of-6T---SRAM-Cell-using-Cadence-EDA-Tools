@@ -1,6 +1,5 @@
-# Exp No:4 Design-Implementation-of-6T---SRAM-Cell-using-Cadence-EDA-Tools
-   
-
+# Exp No:4 Design a 6T SRAM cell and analyze its read/write operations using Cadence EDA 
+ 
 ## Aim:
 To design and implement a 6T SRAM (Static Random-Access Memory) cell using Cadence EDA tools, simulate its functionality, and analyze key performance parameters such as read/write operations, power consumption, and stability to understand its behavior in memory design.
 
